@@ -118,7 +118,7 @@ export SSU_RELEASE_TYPE=release
 ### begin hybris
 pushd $IMG_OUT_DIR
 
-DEVICE=scorpion
+DEVICE=mido
 
 VERSION_FILE=./sailfish-release
 source $VERSION_FILE
